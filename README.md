@@ -11,3 +11,4 @@ Burningseries serie manager (bs.to)
 - expand/finish the "reload files" function( for example, a serie gets new episodes or seasons)
 - Ask user to confirm delete action
 - online DB
+- use multithreading for the GUI
