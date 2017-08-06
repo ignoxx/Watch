@@ -6,12 +6,12 @@ Burningseries serie manager (bs.to)
 - Remembers your last watched episode/season
 
 # TODO
-- undo last action
+- Undo last action
 - Speed-up process for adding a serie
-- expand/finish the "reload files" function( for example, a serie gets new episodes or seasons)
+- Expand/finish the "reload files" function( for example, a serie gets new episodes or seasons)
 - Ask user to confirm delete action
-- online DB
-- use multithreading for the GUI
+- Online DB
+- Use multithreading for the GUI
 
 # Why "v3"?
 The first two versions worked just over the console with commands. 
