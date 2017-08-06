@@ -12,3 +12,7 @@ Burningseries serie manager (bs.to)
 - Ask user to confirm delete action
 - online DB
 - use multithreading for the GUI
+
+# Why "v3"?
+The first two versions worked just over the console with commands. 
+Alot of things has changed, like adding a graphical user interface and revamping huge code parts.
