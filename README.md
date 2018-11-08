@@ -1,6 +1,5 @@
 # Watch v3
 Burningseries serie manager (bs.to)
-made by @IGnoXX
 
 # Features
 - Add/Remove Series
